@@ -10,6 +10,7 @@ This project explores generating emotionally-aware text using Generative Adversa
 
 ## 📁 Project Structure
 emotion_gan_project/
+
 ├── data/ # Datasets and preprocessed files
 
 ├── models/ # Generator, Discriminator, Classifier models
